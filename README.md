@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hey there! 👋
 
-<!--
-**Amey-tmb/Amey-tmb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Amey**, a student at MIT-WPU, based in Pune.
 
-Here are some ideas to get you started:
+I'm into design-based apps — if an idea pops into my head, chances are I'll build it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main tech stack is **React**, **TypeScript**, and **Tailwind**. My favorite tools are **Figma** and **Obsidian**.
+
+My favorite project is my [Aufside PL Fantasy Squad Builder](#) — link coming soon!
+
+Check out my [portfolio](#) here!
+
+#### Fun Facts:
+- I'm the biggest **Bayern Munich** fan you'll meet
+- Favorite anime: **Kuroko no Basket**
+- I'm a sucker for good coffee ☕
+- **Hobbies:** writing, cricket, running
