@@ -6,7 +6,7 @@ I'm into design-based apps — if an idea pops into my head, chances are I'll bu
 
 My main tech stack is **React**, **TypeScript**, and **Tailwind**. My favorite tools are **Figma** and **Obsidian**.
 
-My favorite project is my [Aufside PL Fantasy Squad Builder](#) — link coming soon!
+My favorite project is my [Aufside PL Fantasy Squad Builder](#) 
 
 Check out my [portfolio](#) here!
 
